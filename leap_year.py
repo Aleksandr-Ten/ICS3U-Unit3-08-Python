@@ -7,10 +7,10 @@
 
 def main():
     # this function calculates the leap year
-    
+
     # input
     year_number_string = input("Enter the year: ")
-    
+
     # process & output
     try:
         year_number = int(year_number_string)
@@ -32,4 +32,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
